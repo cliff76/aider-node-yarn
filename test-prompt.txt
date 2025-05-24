@@ -1,0 +1,1 @@
+Build a nextjs social media webapp that allows users to post short threads. Each thread can be a maximum of 4096 characters and may include a picture. The home page should list the most recent threads posted by any user.

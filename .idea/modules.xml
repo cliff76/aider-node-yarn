@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aider-node-yarn.iml" filepath="$PROJECT_DIR$/aider-node-yarn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/aider-node-yarn.iml" filepath="$PROJECT_DIR$/webapp/aider-node-yarn.iml" />
     </modules>
   </component>
 </project>

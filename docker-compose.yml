@@ -7,6 +7,9 @@ services:
       - "3000:3000"
     environment:
       - MONGODB_URI=mongodb://mongodb:27017/mydb
+      - HOST=0.0.0.0
+    volumes:
+      - ${PWD}:/home/aider/app
     depends_on:
       - mongodb
     networks:

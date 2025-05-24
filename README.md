@@ -11,6 +11,6 @@ This will connect port 3000 locally on your machine to the Docker image running 
 Next ask aider to...
 `Build a NextJS web app with a CRUD interface that allows users to create quizes. Each quiz should have a set of questions which can also be entered via the CRUD interfsace. Each question should have a set of answers that can be maintained.`
 
-Finally, watch aider do it's thing! You may need to connect it to an instance of MongoDB (or whatever DB persistance technology it chooses by default) runniing in another Docker container.
+Finally, watch aider do its thing! You may need to connect it to an instance of MongoDB (or whatever DB persistence technology it chooses by default) running in another Docker container. See the docker-compose for an example of how to connect aider to a MongoDB container.
 
 This is a work in progress!!
